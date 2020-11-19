@@ -1,0 +1,3 @@
+[submodule "youtube-dl-webui"]
+	path = youtube-dl-webui
+	url = https://github.com/d0u9/youtube-dl-webui.git

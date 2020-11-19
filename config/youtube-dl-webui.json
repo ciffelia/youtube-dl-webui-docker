@@ -1,0 +1,10 @@
+{
+    "general": {
+        "download_dir": "/ytdl-webui/download",
+        "db_path": "/ytdl-webui/database/youtube-dl-webui.db"
+    },
+    "server": {
+        "host": "0.0.0.0",
+        "port": 5000
+    }
+}
